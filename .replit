@@ -1,0 +1,4 @@
+run = "bash ./OppaiRoot/main.sh"
+
+[nix]
+channel = "stable-21_11"
