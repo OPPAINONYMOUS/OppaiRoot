@@ -18,7 +18,7 @@ echo ":: Setting up Debian ::"
 unzip oppai.zip
 unzip root.zip
 tar -xvf root.tar.xz
-rm -rf akuh.zip root.zip root.tar.xz
+rm -rf oppai.zip root.zip root.tar.xz
 clear
 echo "-: Welcome to OppaiRoot (Debian)! :-"
 echo "-: It is highly reccomended you run pkg.sh in the OppaiRoot folder first before Installing anything. :-"
